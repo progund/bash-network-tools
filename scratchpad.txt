@@ -1,0 +1,5 @@
+nc / netcat
+curl, wget, w3m
+telnet
+ssh, scp
+rsync
